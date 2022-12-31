@@ -1,2 +1,2 @@
 # WEB1
-https://mmalfoy.github.io/WEB1/start/html
+https://mmalfoy.github.io/start.html
